@@ -39,13 +39,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About
-    url:               /about
+    url:               index
   - title:             Research
-    url:               /research
+    url:               /research/
   - title:             Teaching
-    url:               /teaching
+    url:               /teaching/
   - title:             CV
-    url:               /cv
+    url:               /cv/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2023. All rights reserved.
